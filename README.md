@@ -1,5 +1,7 @@
 # Kafka Event Streaming Hub
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 [![Node.js](https://img.shields.io/badge/Node.js-20.x-green.svg)](https://nodejs.org/)
 [![Kafka](https://img.shields.io/badge/Kafka-3.x-blue.svg)](https://kafka.apache.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)](https://www.typescriptlang.org/)
